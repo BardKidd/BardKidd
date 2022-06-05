@@ -1,6 +1,7 @@
 ![](https://images.unsplash.com/photo-1470364798856-7a74180378dc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2880&h=1200)
 
-<img alt="Night Coding" src="../BardKidd/image/giphy.gif" width="300" height="185" height="" align="right"/>
+
+<img alt="Night Coding" src="https://github.com/BardKidd/BardKidd/blob/master/image/giphy.gif" width="300" height="185" height="" align="right"/>
 
 ### 🛠 &nbsp;技能樹
 
