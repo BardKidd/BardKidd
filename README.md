@@ -10,18 +10,17 @@
 ![Javascript](https://img.shields.io/badge/-JavaScript-272822?style=flat&logo=javascript)&nbsp;  
 ![Vue](https://img.shields.io/badge/-Vue-272822?style=flat&logo=vuedotjs)&nbsp;
 ![React](https://img.shields.io/badge/-React-272822?style=flat&logo=react)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-272822?style=flat&logo=typescript)&nbsp;  
-![Sass](https://img.shields.io/badge/-Sass-272822?style=flat&logo=sass)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-272822?style=flat&logo=sass)&nbsp;  
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-272822?style=flat&logo=bootstrap)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-272822?style=flat&logo=markdown)&nbsp;  
+![Markdown](https://img.shields.io/badge/-Markdown-272822?style=flat&logo=markdown)&nbsp;
+![Git](https://img.shields.io/badge/-Git-272822?style=flat&logo=git)&nbsp;  
+![Webpack](https://img.shields.io/badge/-Webpack-272822?style=flat&logo=webpack)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-272822?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+---  
+學習中...  
+![TypeScript](https://img.shields.io/badge/-TypeScript-272822?style=flat&logo=typescript)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-272822?style=flat&logo=jest&logoColor=99425B)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-272822?style=flat&logo=docker)&nbsp;
-![Git](https://img.shields.io/badge/-Git-272822?style=flat&logo=git)&nbsp;  
-![GitHub](https://img.shields.io/badge/-GitHub-272822?style=flat&logo=github)&nbsp;
-![GitLab](https://img.shields.io/badge/-GitLab-272822?style=flat&logo=gitlab)&nbsp;
-![Webpack](https://img.shields.io/badge/-Webpack-272822?style=flat&logo=webpack)&nbsp;  
-![RxJS](https://img.shields.io/badge/-RxJS-272822?style=flat&logo=reactivex&logoColor=c2185b)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-272822?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### ⚙️ &nbsp;GitHub 分析
 
