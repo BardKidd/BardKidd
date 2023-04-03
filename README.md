@@ -8,19 +8,23 @@
 ![HTML](https://img.shields.io/badge/-HTML-272822?style=flat&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-272822?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Javascript](https://img.shields.io/badge/-JavaScript-272822?style=flat&logo=javascript)&nbsp;  
+![TypeScript](https://img.shields.io/badge/-TypeScript-272822?style=flat&logo=typescript)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-272822?style=flat&logo=vuedotjs)&nbsp;
 ![React](https://img.shields.io/badge/-React-272822?style=flat&logo=react)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-272822?style=flat&logo=sass)&nbsp;  
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-272822?style=flat&logo=bootstrap)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-272822?style=flat&logo=tailwindcss)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-272822?style=flat&logo=markdown)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-272822?style=flat&logo=git)&nbsp;  
 ![Webpack](https://img.shields.io/badge/-Webpack-272822?style=flat&logo=webpack)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-272822?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
 ---  
 學習中...  
-![TypeScript](https://img.shields.io/badge/-TypeScript-272822?style=flat&logo=typescript)&nbsp;
+
 ![Jest](https://img.shields.io/badge/-Jest-272822?style=flat&logo=jest&logoColor=99425B)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-272822?style=flat&logo=docker)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-272822?style=flat&logo=kubernetes)&nbsp;
 
 ### ⚙️ &nbsp;GitHub 分析
 
