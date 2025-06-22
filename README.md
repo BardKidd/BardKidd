@@ -1,37 +1,41 @@
 ![](https://images.unsplash.com/photo-1470364798856-7a74180378dc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2880&h=1200)
 
+<img alt="Night Coding" src="https://github.com/BardKidd/BardKidd/blob/master/image/giphy.gif" width="300" height="185" align="right"/>
 
-<img alt="Night Coding" src="https://github.com/BardKidd/BardKidd/blob/master/image/giphy.gif" width="300" height="185" height="" align="right"/>
+## 👋 嗨！我是 Valens
 
-### 🛠 &nbsp;技能樹
+全端開發者，熱愛學習新技術，專注於 React/Vue 前端開發和 Node.js 後端開發。
+
+### 🎨 前端技術
 
 ![HTML](https://img.shields.io/badge/-HTML-272822?style=flat&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-272822?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Javascript](https://img.shields.io/badge/-JavaScript-272822?style=flat&logo=javascript)&nbsp;  
+![JavaScript](https://img.shields.io/badge/-JavaScript-272822?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-272822?style=flat&logo=typescript)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-272822?style=flat&logo=vuedotjs)&nbsp;
 ![React](https://img.shields.io/badge/-React-272822?style=flat&logo=react)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-272822?style=flat&logo=sass)&nbsp;  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-272822?style=flat&logo=bootstrap)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-272822?style=flat&logo=sass)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-272822?style=flat&logo=tailwindcss)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-272822?style=flat&logo=markdown)&nbsp;
-![Git](https://img.shields.io/badge/-Git-272822?style=flat&logo=git)&nbsp;  
+
+### ⚡ 後端技術
+
+![NestJS](https://img.shields.io/badge/-NestJS-272822?style=flat&logo=nestjs&logoColor=E0234E)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-272822?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
+
+### 🛠 開發工具
+
+![Git](https://img.shields.io/badge/-Git-272822?style=flat&logo=git)&nbsp;
 ![Webpack](https://img.shields.io/badge/-Webpack-272822?style=flat&logo=webpack)&nbsp;
+![Vite](https://img.shields.io/badge/-Vite-272822?style=flat&logo=vite)&nbsp;
+![TurboRepo](https://img.shields.io/badge/-TurboRepo-272822?style=flat&logo=turborepo)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-272822?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
----  
-學習中...  
-
-![Jest](https://img.shields.io/badge/-Jest-272822?style=flat&logo=jest&logoColor=99425B)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-272822?style=flat&logo=docker)&nbsp;
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-272822?style=flat&logo=kubernetes)&nbsp;
 
 ### ⚙️ &nbsp;GitHub 分析
 
 <p align="center">
 <a href="https://github.com/BardKidd">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BardKidd&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BardKidd&layout=compact&langs_count=8&theme=monokai"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BardKidd&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BardKidd&layout=compact&langs_count=8&theme=gruvbox"/>
 </a>
 </p>
 
