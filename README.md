@@ -2,7 +2,7 @@
 
 <img alt="Night Coding" src="https://github.com/BardKidd/BardKidd/blob/master/image/giphy.gif" width="300" height="185" align="right"/>
 
-## 👋 嗨！我是 Valens
+## 👋 嗨！我是 Riin
 
 全端開發者，熱愛學習新技術，專注於 React/Vue 前端開發和 Node.js 後端開發。
 
@@ -14,21 +14,37 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-272822?style=flat&logo=typescript)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-272822?style=flat&logo=vuedotjs)&nbsp;
 ![React](https://img.shields.io/badge/-React-272822?style=flat&logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-272822?style=flat&logo=next.dot.js&logoColor=white)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-272822?style=flat&logo=sass)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-272822?style=flat&logo=tailwindcss)&nbsp;
 
 ### ⚡ 後端技術
 
-![NestJS](https://img.shields.io/badge/-NestJS-272822?style=flat&logo=nestjs&logoColor=E0234E)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-272822?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-272822?style=flat&logo=node.js&logoColor=339933)&nbsp;
+![Express](https://img.shields.io/badge/-Express-272822?style=flat&logo=express&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-272822?style=flat&logo=postgresql&logoColor=4169E1)&nbsp;
 
 ### 🛠 開發工具
 
 ![Git](https://img.shields.io/badge/-Git-272822?style=flat&logo=git)&nbsp;
 ![Webpack](https://img.shields.io/badge/-Webpack-272822?style=flat&logo=webpack)&nbsp;
-![Vite](https://img.shields.io/badge/-Vite-272822?style=flat&logo=vite)&nbsp;
 ![TurboRepo](https://img.shields.io/badge/-TurboRepo-272822?style=flat&logo=turborepo)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-272822?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Google Antigravity](https://img.shields.io/badge/-Google%20Antigravity-272822?style=flat&logo=google&logoColor=white)&nbsp;
+
+### 🤖 AI 使用
+
+![Gemini](https://img.shields.io/badge/-Gemini-272822?style=flat&logo=googlegemini&logoColor=886FBF)&nbsp;
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-272822?style=flat&logo=anthropic&logoColor=white)&nbsp;
+![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-272822?style=flat&logo=githubcopilot&logoColor=white)&nbsp;
+
+### ☁️ 雲端服務與部署
+
+![Vercel](https://img.shields.io/badge/-Vercel-272822?style=flat&logo=vercel&logoColor=white)&nbsp;
+![Railway](https://img.shields.io/badge/-Railway-272822?style=flat&logo=railway&logoColor=white)&nbsp;
+![Neon](https://img.shields.io/badge/-Neon-272822?style=flat&logo=neon&logoColor=00E599)&nbsp;
+![Resend](https://img.shields.io/badge/-Resend-272822?style=flat&logo=resend&logoColor=white)&nbsp;
+![Azure Storage](https://img.shields.io/badge/-Azure%20Storage-272822?style=flat&logo=microsoftazure&logoColor=0078D4)&nbsp;
 
 ### ⚙️ &nbsp;GitHub 分析
 
